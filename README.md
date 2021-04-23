@@ -12,4 +12,4 @@ https://soyisaacrs.github.io/build-a-technical-documentation-page
 
 ![Image of page](https://github.com/SoyIsaacRs/build-a-technical-documentation-page/blob/master/resources/DocumentationPageWeb.png)
 
-<div style="text-align:center">Isaac from 2020 made this project</div>
+<div align="center">Isaac from 2020 made this project</div>
